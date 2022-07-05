@@ -6,12 +6,60 @@
   "cover": "https://i.imgur.com/tcRSe6u.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "The Secret of the Shiunji Family",
       "volume": "1",
       "last_updated": "1657012033",
       "groups": {
         "Ichiban Scans": "/proxy/api/imgur/chapter/kBG8Sgk"
       }
-    }
+    },
+    "2": {
+      "title": "The Change Between Siblings",
+      "volume": "1",
+      "last_updated": "1657012033",
+      "groups": {
+        "Ichiban Scans": "/proxy/api/imgur/chapter/H0TO3ia"
+      }
+    },
+    "3": {
+      "title": "The Eldest Brother's Wish",
+      "volume": "1",
+      "last_updated": "1657012033",
+      "groups": {
+        "Ichiban Scans": "/proxy/api/imgur/chapter/ZI3Ub9Z"
+      }
+    },
+    "4": {
+      "title": "The Speculation of The Second Daughter",
+      "volume": "1",
+      "last_updated": "1657012033",
+      "groups": {
+        "Ichiban Scans": "/proxy/api/imgur/chapter/R4joeNW"
+      }
+    },
+    "5": {
+      "title": "The Anguish of the Fourth Sister",
+      "volume": "1",
+      "last_updated": "1657012033",
+      "groups": {
+        "Ichiban Scans": "/proxy/api/imgur/chapter/WhJCjuq"
+      }
+    },
+    "6": {
+      "title": "The Wish of The Eldest Daughter",
+      "volume": "1",
+      "last_updated": "1657012033",
+      "groups": {
+        "Ichiban Scans": "/proxy/api/imgur/chapter/QbGsX3P"
+      }
+    },
+    "7": {
+      "title": "The Confession of the Third Daughter",
+      "volume": "1",
+      "last_updated": "1657012033",
+      "groups": {
+        "Ichiban Scans": "/proxy/api/imgur/chapter/QauZC7u"
+      }
+    }	
   }
 }
