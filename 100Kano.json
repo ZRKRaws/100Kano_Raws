@@ -4,5 +4,14 @@
   "artist": "Nozawa Yukiko",
   "author": "Nakamura Rikito",
   "cover": "https://imgur.com/a/aaqhrfe",
-  "chapters": {}
+  "chapters": {
+    "001": {
+      "title": "103",
+      "volume": "12",
+      "last_updated": "1656993565",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LSfmJZ1"
+      }
+    }
+  }
 }
