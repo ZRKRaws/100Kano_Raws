@@ -60,6 +60,14 @@
       "groups": {
         "Ichiban Scans": "/proxy/api/imgur/chapter/QauZC7u"
       }
+    },
+    "7.5": {
+      "title": "Vol 1 Extras",
+      "volume": "1",
+      "last_updated": "1657012033",
+      "groups": {
+        "Ichiban Scans": "/proxy/api/imgur/chapter/evxRKrG"
+      }
     }	
   }
 }
