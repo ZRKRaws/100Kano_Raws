@@ -172,6 +172,14 @@
       "groups": {
         "WYJ": "/proxy/api/imgur/chapter/SGIG2cO/"
       }
-    }    
+    }, 
+      "106": {
+      "title": "Untitled",
+      "volume": "13",
+      "last_updated": "1656993565",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/9BXpJym/"
+      }
+    }  	
   }
 }
