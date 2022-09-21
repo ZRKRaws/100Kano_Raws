@@ -212,6 +212,14 @@
       "groups": {
         "WYJ": "/proxy/api/imgur/chapter/E4C3lR3/"
       }
+    },  
+      "111": {
+      "title": "Title Pending",
+      "volume": "13",
+      "last_updated": "1661958000",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/dAPAhoO/"
+      }
     }    
   }
 }
