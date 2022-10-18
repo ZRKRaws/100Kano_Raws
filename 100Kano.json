@@ -230,11 +230,19 @@
       }
     },
       "113": {
-      "title": "Title Pending - End of Vol 13",
+      "title": "Spring Light Show Dates are Most Efficient",
       "volume": "13",
       "last_updated": "1665586800",
       "groups": {
         "WYJ": "/proxy/api/imgur/chapter/nLpan53/"
+      }
+    },
+      "114": {
+      "title": "Title Pending - Beginning of Vol 14",
+      "volume": "13",
+      "last_updated": "1666191600",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/P7e41j1/"
       }
     }
   }
