@@ -5,6 +5,217 @@
   "author": "Nakamura Rikito",
   "cover": "https://i.imgur.com/KgX4NWG.jpg",
   "chapters": {
+    "100": {
+      "title": "Working on This Series Has Made Me Happier Than I Can Say. Honestly, Thank You All So Much. We're in This for the Long Haul!",
+      "volume": "12",
+      "last_updated": "1654700400",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/2X6cwyf/"
+      }
+    },
+    "101": {
+      "title": "Mai Dear Sister Mei",
+      "volume": "12",
+      "last_updated": "1655305200",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/qCIDQtn/"
+      }
+    },
+    "102": {
+      "title": "Mai Little Little Sister Maid Lessons",
+      "volume": "12",
+      "last_updated": "1655910000",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/ARyt24V/"
+      }
+    },
+    "103": {
+      "title": "Hakari’s Heat",
+      "volume": "12",
+      "last_updated": "1657119600",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/LSfmJZ1/"
+      }
+    },
+    "104": {
+      "title": "The Gorgeous 100 GFs",
+      "volume": "12",
+      "last_updated": "1657724400",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/neqikjF/"
+      }
+    },
+    "105": {
+      "title": "Yaku VS Kishika VS Rentarou",
+      "volume": "13",
+      "last_updated": "1658329200",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/SGIG2cO/"
+      }
+    },
+    "106": {
+      "title": "Rentarou's Family Yakiniku Date",
+      "volume": "13",
+      "last_updated": "1658934000",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/9BXpJym/"
+      }
+    },
+    "107": {
+      "title": "The Addictive Cabbage Tastes like That",
+      "volume": "13",
+      "last_updated": "1659538800",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/u0cnb0k/"
+      }
+    },
+    "108": {
+      "title": "Bonnouji-sensei is a Useless Person",
+      "volume": "13",
+      "last_updated": "1660748400",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/U0ns5vZ/"
+      }
+    },
+    "109": {
+      "title": "Rentarou's Family Serious Drinking Party Play",
+      "volume": "13",
+      "last_updated": "1661958000",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/zMiUD1H/"
+      }
+    },
+    "110": {
+      "title": "No Alcohol or Anything with Similar Effects has been Consumed",
+      "volume": "13",
+      "last_updated": "1663167600",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/E4C3lR3/"
+      }
+    },
+    "111": {
+      "title": "One Could Call it a Duet Betwixt a Gal and a Bard, Perhaps",
+      "volume": "13",
+      "last_updated": "1663772400",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/dAPAhoO/"
+      }
+    },
+    "112": {
+      "title": "Mimimi-senpai is a Beautiful Heroine",
+      "volume": "13",
+      "last_updated": "1664377200",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/DgRPp0v/"
+      }
+    },
+    "113": {
+      "title": "Spring Light Show Dates are Most Efficient",
+      "volume": "13",
+      "last_updated": "1665586800",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/nLpan53/"
+      }
+    },
+    "114": {
+      "title": "A Tsunderesque Date",
+      "volume": "14",
+      "last_updated": "1666191600",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/P7e41j1/"
+      }
+    },
+    "115": {
+      "title": "Baio Rin-san is a Violin Girl",
+      "volume": "14",
+      "last_updated": "1666796400",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/5T2iMho/"
+      }
+    },
+    "116": {
+      "title": "Rentarou's Family Zombie Nurse Tag",
+      "volume": "14",
+      "last_updated": "1667314800",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/tnXYuVm/"
+      }
+    },
+    "117": {
+      "title": "The End of Violence",
+      "volume": "14",
+      "last_updated": "1668006000",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/IsqUPwO/"
+      }
+    },
+    "118": {
+      "title": "Farewell to Naddian, Long Live Naddian",
+      "volume": "14",
+      "last_updated": "1669215600",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/2jQHhXl/"
+      }
+    },
+    "119": {
+      "title": "Fondling Festival (Part Two)",
+      "volume": "14",
+      "last_updated": "1669820400",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/vqX1VZZ/"
+      }
+    },
+    "120": {
+      "title": "Rantarou's Family's Daily Life",
+      "volume": "14",
+      "last_updated": "1671030000",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/2iUJ0Hh/"
+      }
+    },
+    "121": {
+      "title": "Do You Like Going on Dates with High Class Ladies?",
+      "volume": "14",
+      "last_updated": "1671634800",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/xCo2I2f/"
+      }
+    },
+    "122": {
+      "title": "A Home Date With Meme-chan and Her Stuffed Toys",
+      "volume": "14",
+      "last_updated": "1672844400",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/VDUrjIg/"
+      }
+    },
+    "123": {
+      "title": "A Maiden In Love",
+      "volume": "15",
+      "last_updated": "1674054000",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/1tCzVow/"
+      }
+    },
+    "124": {
+      "title": "Title Pending",
+      "volume": "15",
+      "last_updated": "1675263600",
+      "groups": {
+        "WYJ": "/proxy/api/imgur/chapter/wFfOe1f/"
+      }
+    },
+    "999": {
+      "title": "999",
+      "volume": "56",
+      "last_updated": "1675410681",
+      "groups": {
+        "WYJ": [
+          "https://drive.google.com/uc?export=view&id=15_L_eNEd0H1VQcb4HrIoAU18AX5irRV4",
+          "https://drive.google.com/uc?export=view&id=15_07trtPkNzw-fzFVadNM3_zqPIJZx00"
+        ]
+      }
+    },
     "085": {
       "title": "A Day with Rentarou",
       "volume": "10",
@@ -123,206 +334,6 @@
       "last_updated": "1654095600",
       "groups": {
         "WYJ": "/proxy/api/imgur/chapter/NZVxCsA/"
-      }
-    },
-    "100": {
-      "title": "Working on This Series Has Made Me Happier Than I Can Say. Honestly, Thank You All So Much. We're in This for the Long Haul!",
-      "volume": "12",
-      "last_updated": "1654700400",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/2X6cwyf/"
-      }
-    },
-    "101": {
-      "title": "Mai Dear Sister Mei",
-      "volume": "12",
-      "last_updated": "1655305200",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/qCIDQtn/"
-      }
-    },
-    "102": {
-      "title": "Mai Little Little Sister Maid Lessons",
-      "volume": "12",
-      "last_updated": "1655910000",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/ARyt24V/"
-      }
-    },
-    "103": {
-      "title": "Hakari’s Heat",
-      "volume": "12",
-      "last_updated": "1657119600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/LSfmJZ1/"
-      }
-    },
-      "104": {
-      "title": "The Gorgeous 100 GFs",
-      "volume": "12",
-      "last_updated": "1657724400",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/neqikjF/"
-      }
-    },
-      "105": {
-      "title": "Yaku VS Kishika VS Rentarou",
-      "volume": "13",
-      "last_updated": "1658329200",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/SGIG2cO/"
-      }
-    }, 
-      "106": {
-      "title": "Rentarou's Family Yakiniku Date",
-      "volume": "13",
-      "last_updated": "1658934000",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/9BXpJym/"
-      }
-    },  	
-      "107": {
-      "title": "The Addictive Cabbage Tastes like That",
-      "volume": "13",
-      "last_updated": "1659538800",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/u0cnb0k/"
-      }
-    },  
-      "108": {
-      "title": "Bonnouji-sensei is a Useless Person",
-      "volume": "13",
-      "last_updated": "1660748400",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/U0ns5vZ/"
-      }
-    },
-      "109": {
-      "title": "Rentarou's Family Serious Drinking Party Play",
-      "volume": "13",
-      "last_updated": "1661958000",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/zMiUD1H/"
-      }
-    },
-      "110": {
-      "title": "No Alcohol or Anything with Similar Effects has been Consumed",
-      "volume": "13",
-      "last_updated": "1663167600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/E4C3lR3/"
-      }
-    },  
-      "111": {
-      "title": "One Could Call it a Duet Betwixt a Gal and a Bard, Perhaps",
-      "volume": "13",
-      "last_updated": "1663772400",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/dAPAhoO/"
-      }
-    },
-      "112": {
-      "title": "Mimimi-senpai is a Beautiful Heroine",
-      "volume": "13",
-      "last_updated": "1664377200",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/DgRPp0v/"
-      }
-    },
-      "113": {
-      "title": "Spring Light Show Dates are Most Efficient",
-      "volume": "13",
-      "last_updated": "1665586800",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/nLpan53/"
-      }
-    },
-      "114": {
-      "title": "A Tsunderesque Date",
-      "volume": "14",
-      "last_updated": "1666191600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/P7e41j1/"
-      }
-    },
-      "115": {
-      "title": "Baio Rin-san is a Violin Girl",
-      "volume": "14",
-      "last_updated": "1666796400",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/5T2iMho/"
-      }
-    },
-      "116": {
-      "title": "Rentarou's Family Zombie Nurse Tag",
-      "volume": "14",
-      "last_updated": "1667314800",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/tnXYuVm/"
-      }
-    },
-      "117": {
-      "title": "The End of Violence",
-      "volume": "14",
-      "last_updated": "1668006000",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/IsqUPwO/"
-      }
-    },
-      "118": {
-      "title": "Farewell to Naddian, Long Live Naddian",
-      "volume": "14",
-      "last_updated": "1675263600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/2jQHhXl/"
-      }
-    },
-      "119": {
-      "title": "Fondling Festival (Part Two)",
-      "volume": "14",
-      "last_updated": "1675263600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/vqX1VZZ/"
-      }
-    },
-      "120": {
-      "title": "Rantarou's Family's Daily Life",
-      "volume": "14",
-      "last_updated": "1675263600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/2iUJ0Hh/"
-      }
-    },
-      "121": {
-      "title": "Do You Like Going on Dates with High Class Ladies?",
-      "volume": "14",
-      "last_updated": "1675263600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/xCo2I2f/"
-      }
-    },
-      "122": {
-      "title": "A Home Date With Meme-chan and Her Stuffed Toys",
-      "volume": "14",
-      "last_updated": "1675263600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/VDUrjIg/"
-      }
-    },
-      "123": {
-      "title": "A Maiden In Love",
-      "volume": "15",
-      "last_updated": "1675263600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/1tCzVow/"
-      }
-    },
-      "124": {
-      "title": "Title Pending",
-      "volume": "15",
-      "last_updated": "1675263600",
-      "groups": {
-        "WYJ": "/proxy/api/imgur/chapter/wFfOe1f/"
       }
     }
   }
